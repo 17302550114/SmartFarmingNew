@@ -88,7 +88,7 @@ public class NewMainActivity extends AppCompatActivity {
                         .setInactiveIcon(ContextCompat.getDrawable(NewMainActivity.this, R.drawable.home_nor)))
                 .addItem(new BottomNavigationItem(R.drawable.map_pres, "地图")
                         .setInactiveIcon(ContextCompat.getDrawable(NewMainActivity.this, R.drawable.map_nor)))
-                .addItem(new BottomNavigationItem(R.drawable.service_pres, "服务")
+                .addItem(new BottomNavigationItem(R.drawable.service_pres, "发现")
                         .setInactiveIcon(ContextCompat.getDrawable(NewMainActivity.this, R.drawable.service_nor)))
                 .addItem(new BottomNavigationItem(R.drawable.mine_pres, "关于")
                         .setInactiveIcon(ContextCompat.getDrawable(NewMainActivity.this, R.drawable.mine_nor)))
