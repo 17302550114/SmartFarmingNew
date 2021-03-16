@@ -85,7 +85,9 @@ public class LoginActivity extends AppCompatActivity {
                 if (username.equals("admin")&&password.equals("123456")){
                     Toast.makeText(LoginActivity.this,"登陆成功", Toast.LENGTH_LONG).show();
                     Intent intent = new Intent(LoginActivity.this, NewMainActivity.class);
+                    finish();
                     startActivity(intent);
+
                 }
             }
         });
@@ -99,4 +101,5 @@ public class LoginActivity extends AppCompatActivity {
         mCbisSave = (CheckBox)findViewById(R.id.cb_isSave);
         mbtnLogin = (Button)findViewById(R.id.btn_login);
     }
+
 }

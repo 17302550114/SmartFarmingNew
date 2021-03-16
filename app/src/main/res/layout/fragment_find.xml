@@ -96,7 +96,6 @@
 
     </FrameLayout>
 
-
     <LinearLayout
         android:layout_marginTop="20dp"
         android:layout_below="@+id/tip_text2"

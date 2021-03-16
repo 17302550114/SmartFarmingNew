@@ -3,7 +3,7 @@
     <string name="Node01">节点1</string>
     <string name="display_value">实时显示</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="fragment_mine">用户信息界面t</string>
+    <string name="fragment_mine">用户信息界面</string>
     <string name="fragment_find">发现界面</string>
 
 </resources>

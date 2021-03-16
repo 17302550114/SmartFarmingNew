@@ -6,6 +6,7 @@ import androidx.core.content.ContextCompat;
 import androidx.fragment.app.FragmentManager;
 import androidx.viewpager.widget.ViewPager;
 
+import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.view.Window;
@@ -94,4 +95,5 @@ public class NewMainActivity extends AppCompatActivity {
                         .setInactiveIcon(ContextCompat.getDrawable(NewMainActivity.this, R.drawable.mine_nor)))
                 .initialise();
     }
+
 }
