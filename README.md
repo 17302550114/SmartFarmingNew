@@ -20,6 +20,7 @@
 * ![](https://github.com/17302550114/SmartFarming/blob/master/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)
 * 主要功能：登陆、验证、记住账号和密码
 * 实现方式：SharedPreferences
+* 使用sqlite存储用户信息进行登录验证（未实现）
 ---
 ## （4）主界面（底部导航栏+ViewPage+Fragment）
 * ![](https://github.com/17302550114/SmartFarming/blob/master/%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
