@@ -7,7 +7,7 @@
 ---
 ## （1）开发环境
 * ubantu18.04
-* Android Studio 4.0.1
+* Android Studio 4.1.2
 * JDK8
 ---
 ## （2）添加依赖库
